@@ -1,6 +1,6 @@
 {
   "name": "gulp-more-css",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Minify CSS using more-css & gulp.",
   "license": "MIT",
   "homepage": "https://github.com/ben-eb/gulp-more-css",
