@@ -1,0 +1,36 @@
+{
+  "name": "gulp-more-css",
+  "version": "0.0.0",
+  "description": "Minify CSS using more-css & gulp.",
+  "license": "MIT",
+  "homepage": "https://github.com/ben-eb/gulp-more-css",
+  "author": {
+    "name": "Ben Briggs",
+    "email": "therealbenbriggs@hotmail.com",
+    "url": "http://beneb.info"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ben-eb/gulp-more-css.git"
+  },
+  "keywords": [
+    "minify",
+    "css",
+    "gulpplugin"
+  ],
+  "dependencies": {
+    "gulp-util": "~3.0.1",
+    "more-css": "^0.9.0"
+  },
+  "devDependencies": {
+    "chai": "~1.10.0",
+    "gulp": "~3.8.10",
+    "gulp-jshint": "~1.9.0",
+    "jshint-stylish": "~1.0.0",
+    "mocha": "~2.1.0"
+  },
+  "main": "index.js"
+}

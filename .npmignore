@@ -1,0 +1,7 @@
+fixtures/
+.editorconfig
+.gitignore
+.jshintrc
+.travis.yml
+gulpfile.js
+test.js
